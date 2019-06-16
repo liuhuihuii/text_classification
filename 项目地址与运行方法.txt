@@ -1,2 +1,0 @@
-https://github.com/gaussic/text-classification-cnn-rnn
-在anaconda prompt里面可以运行
